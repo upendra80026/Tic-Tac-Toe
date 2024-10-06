@@ -1,4 +1,4 @@
 # Tic-Tac-Toe 
-this is my first git repository
+This is my first repository
 <br>
 Author-Upendra kumar
